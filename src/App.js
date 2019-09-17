@@ -7,6 +7,7 @@ class App extends Component {
   return (
     <div className="App">
      <Nav/>
+     <img src='/images/My Post.jpg'></img>
     </div>
   );
 }
