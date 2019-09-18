@@ -1,6 +1,14 @@
 .nav-wrapper{
     background-color: #3A506B;
 }
+nav .nav-wrapper{
+    height: 80px;
+}
 /* .nav-wrapper *{
     color: #0B132B;
 } */
+
+.logo-nav{
+    height: 80px;
+    width:  100px;
+}
