@@ -11,4 +11,5 @@ nav .nav-wrapper{
 .logo-nav{
     height: 80px;
     width:  100px;
+    margin-right: -30px;
 }
