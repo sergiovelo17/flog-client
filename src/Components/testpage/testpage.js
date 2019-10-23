@@ -5,6 +5,8 @@ class Test extends Component {
     return (
       <div>
        <h1>HEY</h1>
+       <h2>Test</h2>
+       <h6>We back</h6>
       </div>
     );
   }
